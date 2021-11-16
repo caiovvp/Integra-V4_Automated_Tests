@@ -1,0 +1,6 @@
+USERS_TAB = '/html/body/aside/nav/ul/a[1]'
+CREATE_USER_BTN = '/html/body/main/div[1]/div[2]/a'
+VALID_USER = 'new_integra_user'
+INVALID_USER = 'integra_tester'
+VALID_EMAIL = 'new_integra@gmail.com'
+INVALID_EMAIL = 'suporte02@connect.com.vc'

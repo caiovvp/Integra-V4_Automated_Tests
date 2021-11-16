@@ -1,0 +1,5 @@
+FORGOT_PASSWORD_BTN = '/html/body/div/div/div[1]/div/form/div[2]/a'
+VALID_EMAIL = 'suporte02@connect.com.vc'
+INVALID_EMAIL = 'email_invalido@gmail.com'
+REQUEST_PASSWORD_BTN = '/html/body/div/div/div[1]/div/form/button'
+CONFIRMATION_MESSAGE_BOX = '/html/body/div/div/div[1]/div/form/div[1]'
